@@ -8,6 +8,10 @@ Users should be able to:
 
 - View the optimal layout for the section depending on their device's screen size
 
+### Scrrenshot
+
+![](/design/desktop-design.jpg)
+
 ### Links
 
 - Live Site URL :  https://tsimeonov.github.io/Newbie-_-Social-Proof-Section/
