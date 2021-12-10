@@ -14,7 +14,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL :  https://tsimeonov.github.io/Newbie-_-Social-Proof-Section/
+- Live Site URL :  https://tsimeonov.github.io/Social-Proof-Section/
 
 ## My process
 
